@@ -10,10 +10,10 @@ function App() {
     style={{width:"90%", margin: "auto auto", textAlign:'center'}}
 
     >
-      <h1>Home Page</h1>
+      <h4>Write your post</h4>
       <Button
       variant="outline-dark"
-      style={{width:"100%"}}
+      style={{width:"20%"}}
       onClick={() => navigate("create")}>Next</Button>
     </div>
   );

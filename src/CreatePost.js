@@ -39,7 +39,7 @@ function CreatePost() {
 
 return(
   <div style={{width:"90%", margin: "auto auto", textAlign:'center'}}>
-    <h2>Create a post</h2>
+    <h4 >Create a post</h4>
     <Form>
       <Form.Group>
         <Form.Control
@@ -60,7 +60,7 @@ return(
       </Form.Group>
       <Button
       variant="outline-success"
-      style={{width:"100%",  marginBottom:"1.5rem"}}
+      style={{width:"20%",  marginBottom:"1.5rem"}}
       onClick={handleClick}>
         Save
       </Button>
@@ -68,7 +68,7 @@ return(
 
     <Button
     variant="outline-dark"
-    style={{width:"100%", marginBottom: "1.5rem"}}
+    style={{width:"20%", marginBottom: "1.5rem"}}
     onClick={() => navigate(-1)}>Back</Button>
   </div>
   );
