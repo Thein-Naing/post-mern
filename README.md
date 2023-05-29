@@ -1,3 +1,7 @@
+This is 2n.d mern stack exercise. It works but update and delete functions are not working bec of I forget to seperate model/schema/controller from server.js and also forget to commit backend file to git. Here is the link: https://mern-exercises-post.netlify.app/.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
