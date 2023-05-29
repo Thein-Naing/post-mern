@@ -1,4 +1,4 @@
-This is 2nd mern stack exercise. It works but update and delete functions are not working bec of I forget to seperate model/schema/controller from server.js and also forget to commit backend file to git. 
+Is is exercises from Marina Kim youtube channel video and it is my 2nd mern stack exercise. It works but update and delete functions are not working bec of I forget to seperate model/schema/controller from server.js and also forget to commit backend files to git. 
 Sorry for incompetence in coding.
 Here is the link: https://mern-exercises-post.netlify.app/.
 
